@@ -1,15 +1,15 @@
 {
-  "main.css": "/tesla-clone/static/css/main.3563b248.chunk.css",
-  "main.js": "/tesla-clone/static/js/main.bc9da6e7.chunk.js",
-  "main.js.map": "/tesla-clone/static/js/main.bc9da6e7.chunk.js.map",
-  "static/js/1.3da4e6a8.chunk.js": "/tesla-clone/static/js/1.3da4e6a8.chunk.js",
-  "static/js/1.3da4e6a8.chunk.js.map": "/tesla-clone/static/js/1.3da4e6a8.chunk.js.map",
-  "static/js/2.f910b5b4.chunk.js": "/tesla-clone/static/js/2.f910b5b4.chunk.js",
-  "static/js/2.f910b5b4.chunk.js.map": "/tesla-clone/static/js/2.f910b5b4.chunk.js.map",
-  "runtime~main.js": "/tesla-clone/static/js/runtime~main.0135c64e.js",
-  "runtime~main.js.map": "/tesla-clone/static/js/runtime~main.0135c64e.js.map",
-  "static/css/main.3563b248.chunk.css.map": "/tesla-clone/static/css/main.3563b248.chunk.css.map",
-  "index.html": "/tesla-clone/index.html",
-  "precache-manifest.b039438b58331c20f5a57893337b25fa.js": "/tesla-clone/precache-manifest.b039438b58331c20f5a57893337b25fa.js",
-  "service-worker.js": "/tesla-clone/service-worker.js"
+  "files": {
+    "main.css": "/react-tesla-clone/static/css/main.41cb5f36.css",
+    "main.js": "/react-tesla-clone/static/js/main.d390355f.js",
+    "static/js/787.860837ff.chunk.js": "/react-tesla-clone/static/js/787.860837ff.chunk.js",
+    "index.html": "/react-tesla-clone/index.html",
+    "main.41cb5f36.css.map": "/react-tesla-clone/static/css/main.41cb5f36.css.map",
+    "main.d390355f.js.map": "/react-tesla-clone/static/js/main.d390355f.js.map",
+    "787.860837ff.chunk.js.map": "/react-tesla-clone/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cb5f36.css",
+    "static/js/main.d390355f.js"
+  ]
 }
